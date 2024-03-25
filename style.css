@@ -1,7 +1,9 @@
 header{
-    background-color: rgb(15, 15, 15);
-    color: white;
+    background-color: #e08138;
+    color: rgb(236, 242, 241);
 }
+
+
 *{
     margin: 0;
     padding: 0;
@@ -10,8 +12,8 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 .cabecalho {
-    background-color: #091e41;
-    color: rgb(109, 175, 236);
+    background-color: #dd8717;;
+    color: white;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -19,7 +21,7 @@ body {
 }
 
 .cabecalho-imagem{
-    width: 10%;
+    width: 15%;
 }
 
 .cabecalho-lista-item{
@@ -33,7 +35,7 @@ body {
 }
 
 .escola{
-    background-image: linear-gradient(#401f7e,#8b52d6);
+    background-image: linear-gradient( #dd8717,#f8de16);
     color:white;
     display: flex;
     justify-content: center;
@@ -87,3 +89,4 @@ body {
     padding: 12px 0;
    
 }
+
